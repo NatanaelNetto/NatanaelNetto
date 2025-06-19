@@ -18,8 +18,8 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web intuitivas
 ## 🚀 Projetos em destaque
 
 - 🎨 [**Clima App**](https://github.com/NatanaelNetto/clima-app): Aplicação de previsão do tempo com consumo de API pública.
-- [**Projeto**](https://github.com/NatanaelNetto/GuaranaDEV): Interface moderna e responsiva construída com HTML, CSS e JavaScript.
-- 📱 [**To-Do List**](https://github.com/NatanaelNetto/todo-list): Lista de tarefas simples com funcionalidades de adicionar, remover e concluir tarefas.
+- :page_facing_up: [**Projeto**](https://github.com/NatanaelNetto/GuaranaDEV): Interface moderna e responsiva construída com HTML, CSS e JavaScript.
+- 📱 [**To-Do List**](https://github.com/NatanaelNetto/To-list): Lista de tarefas simples com funcionalidades de adicionar, remover e concluir tarefas.
 
 ---
 

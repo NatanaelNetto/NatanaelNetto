@@ -1,21 +1,44 @@
-# 👋 Olá, sou Natanael Netto! Sou um Desenvolvedor Front-end.
+# 👋 Olá, sou o Natanael Netto!  
+### 👨‍💻 Desenvolvedor Front-end
 
- Sou um desenvolvedor front-end apaixonado por criar experiências web intuitivas e visualmente atraentes. Minha paixão reside em transformar designs em interfaces de usuário funcionais e responsivas, criando projetos com:
-<br>
-<br>
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+Sou um desenvolvedor front-end apaixonado por criar experiências web intuitivas, responsivas e visualmente atrativas. Transformo ideias em interfaces funcionais com foco em acessibilidade, performance e design moderno.
 
-- <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+---
 
-- <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+## 🛠️ Tecnologias que utilizo
 
-- <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelNetto" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+---
+
+## 🚀 Projetos em destaque
+
+- 🎨 [**Clima App**](https://github.com/NatanaelNetto/clima-app): Aplicação de previsão do tempo com consumo de API pública.
+- 📺 [**Tela de Login Responsiva**](https://github.com/NatanaelNetto/GuaranaDEV): Interface moderna e responsiva construída com HTML, CSS e JavaScript.
+- 📱 [**To-Do List**](https://github.com/NatanaelNetto/todo-list): Lista de tarefas simples com funcionalidades de adicionar, remover e concluir tarefas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<a href="https://github.com/NatanaelNetto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelNetto&show_icons=true&theme=default" />
 </a>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/NatanaelNetto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelNetto&layout=compact&langs_count=8&theme=default" />
 </a>
-<br>
-<img src="![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)"/>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [natanaelfelix0@gmail.com](mailto:natanaelfelix0@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/natanael-felix-237175217)
+
+---
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=NatanaelNetto&color=blue)

@@ -37,7 +37,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências web intuitivas
 ## 📫 Contato
 
 - 📧 Email: [natanaelfelix0@gmail.com](mailto:natanaelfelix0@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/natanael-felix-237175217)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/natanael-felix-237175217)
 
 ---
 
